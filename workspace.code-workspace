@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\School\\Introduction to computing"
+		},
+		{
+			"path": "..\\..\\.."
+		},
+		{
+			"path": "..\\..\\..\\New folder (3)"
+		}
+	],
+	"settings": {
+		"shs.serverHost": "192.168.1.78",
+		"shs.mainFile": "",
+		"files.autoSave": "afterDelay"
+	}
+}
